@@ -10,6 +10,8 @@
 
 - 🤔 I’m looking for **Remote jobs related to my skillset**
 
+- 💬 Ask me about anything about tech, I would be glad to answer you.
+
 - 📫 **How to reach me **kiisifelix06@gmail.com****
 
 - 🥅 Goals: Contribute more to Open Source projects
