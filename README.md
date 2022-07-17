@@ -2,3 +2,16 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Kiisi Felix</h1>
 <h3 align="center">I'm a Full Stack Engineer and a fast rising Software Engineer</h3>
+## 🙋‍♂️ About Me
+
+- 🔭 I’m a Full Stack Engineer Web and mobile development
+
+- 🌱 I tried to update myself on all new technologies in town🤣
+
+- 🤔 I’m looking for **Remote jobs related to my skillset**
+
+- 📫 **How to reach me **kiisifelix06@gmail.com****
+
+- 🥅 Goals: Contribute more to Open Source projects
+
+- ⚡ Fun fact: I love gaming #PUBG mobile and learning new things.
