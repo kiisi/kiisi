@@ -7,7 +7,7 @@
 
 - 🔭 I’m a Full Stack Engineer Web and mobile development
 
-- 🌱 I tried to update myself on all new technologies in town🤣
+- 🌱 I am updating myself on all latest technologies in town🤣
 
 - 🤔 I’m looking for **Remote jobs related to my skillset**
 
