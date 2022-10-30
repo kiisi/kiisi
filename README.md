@@ -5,7 +5,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m a Full Stack Engineer Web and mobile development
+- 🔭 I’m a Front-End Web and mobile developer
 
 - 🌱 I am updating myself on all latest technologies in town🤣
 
