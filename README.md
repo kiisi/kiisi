@@ -5,7 +5,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m a Front-End Web and mobile developer
+- 🔭 I’m a frontend web and mobile app developer
 
 - 🌱 I am updating myself on all latest technologies in town🤣
 
